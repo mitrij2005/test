@@ -1,4 +1,9 @@
 # hello, Word!
 
-I'm study in Netoligiya
+I'm study in Netoligiya!!!
+Я заблудился
+Наблюдаю косяки с гитом!
+
+
+
 
